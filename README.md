@@ -1,5 +1,4 @@
 # double-landing-page
-simple phone page with help to javascript
 
 📱 Double Landing Page – Phone Website
 

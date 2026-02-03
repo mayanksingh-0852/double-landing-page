@@ -1,6 +1,6 @@
 # double-landing-page
 
-📱 Double Landing Page – Phone Website
+📱 Double Landing Page – Phone Website.
 
 A simple Double Landing Page project inspired by a mobile/phone product website.
 This project is built using HTML, CSS, and JavaScript and focuses on clean UI, layout structuring, and basic interactivity.
